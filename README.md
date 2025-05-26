@@ -52,6 +52,7 @@ The display automatically updates when you start listening to new music and prov
 2. Copy the required files to your Presto:
    - `lastfm_playing.py` - Main application
    - `secrets.py` - Configuration file (see [Configuration](#configuration))
+   - `Roboto-Medium.af` - the [Roboto font in Alright Font format](https://github.com/pimoroni/picovector-fonts/releases/).
 
 3. Ensure your Presto has the required dependencies (these should be included with Pimoroni's MicroPython build):
    - `picovector`
